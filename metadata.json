@@ -1,0 +1,6 @@
+{
+  "name": "Психологические Тесты Шумкина и РПП",
+  "description": "Профессиональный комплекс психологических тестов для Telegram WebApp: Шкала Шумкина (мужская и женская), тест на риски РПП, эмоциональное выгорание, отношение к деньгам и лучший любовник.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
